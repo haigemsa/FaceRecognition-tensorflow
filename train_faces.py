@@ -171,3 +171,8 @@ def cnnTrain():
         print('accuracy less 0.98, exited!')
 
 cnnTrain()
+
+
+
+
+
